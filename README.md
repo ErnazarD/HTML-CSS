@@ -1,3 +1,3 @@
-# pilot_project-
+# Web-site based on CSS&HTML-
 
-This is sample project 
+Wild life web-side 
